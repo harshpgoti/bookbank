@@ -1,0 +1,10 @@
+{
+    "awsSDK": {
+        "region": "ca-central-1",
+        "bucketName": "docstore-bucket",
+        "directory": {
+            "docs": "docs"
+        },
+        "acl": "public-read"
+    }
+}
